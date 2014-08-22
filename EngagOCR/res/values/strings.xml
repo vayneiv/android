@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Engag OCR!</string>
+    <string name="app_name">Engag OCR</string>
+    <string name="button_text">OCR!</string>
+    <string name="text_hint">OCRed Text will appear here</string>
+    <string name="button1">Capture Photo</string>
+    <string name="button2">Select from File</string>
+    <string name="button3">Save to File</string>
+    <string name="dialogTitle">Enter File Name</string>
+    <string name="button4">ok</string>
+    <string name="button5">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="splash">splash</string>
+    <string name="Info">Info</string>
+
+</resources>
