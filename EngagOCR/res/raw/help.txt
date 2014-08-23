@@ -1,0 +1,18 @@
+---------
+HELP MENU
+---------
+
+Two options to start OCR. Either click CAPTURE PHOTO or CHOOSE PHOTO. 
+
+If CAPTURE PHOTO is pressed, camera app will open.
+
+If CHOOSE PHOTO is pressed, photo library will open.
+
+After Taking or choosing a photo of preferred text. Wait for a moment and OCRed text will appear in the TEXT AREA. 
+
+If you want to save, press SAVE button. Enter filename, and fle type. Either .doc, .rtf or  .text.
+
+THANK YOU! for using ENGAG OCR. :)
+
+Made by ENGAG.
+Enter NICH, GERVIN, ALLEN Group
