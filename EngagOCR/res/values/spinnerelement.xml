@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="spinnerelement">
-        <item>Text File</item>
-        <item>Word Document</item>
-        <item>Rich Text Format</item>
-    </string-array>
-</resources>
